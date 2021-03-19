@@ -42,3 +42,7 @@ a {
 	padding: 60px;
 	text-align: center;
 }
+.card-image {
+	max-height: 300px;
+	max-width: 100%;
+}

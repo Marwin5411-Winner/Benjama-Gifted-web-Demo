@@ -1,6 +1,4 @@
-<!DOCTYPE>
-
-<html>>
+<html>
 <head>
 <title>Benjamalachanusorn School Web Demo Font End By gifted Student 13</title>
 <meta charset="utf-8">
@@ -65,31 +63,7 @@
 	<div class="card" style="width:100%; "> 
 		<div class="card-header">กิจกรรม</div>
 		<div class="card-body">
-		<div class="card">
-			<div class="card-header">Gifted Camp</div>
-		<div class="row">
-			<div class="col-4">
-			<div class="card in-card">
-				<div class="card-header in-card-header">
-				M.4/1
-				</div>
-				<img id="img01" src="image/m4.1.jpg">
-			</div>
-			</div>
-			
-			<div class="col-4"><div class="card in-card">
-				<div class="card-header in-card-header">
-				M.5/1
-				</div>
-				<img  id="img01" src="image/m4.1.jpg">
-			</div></div>
-			<div class="col-4"><div class="card in-card">
-				<div class="card-header in-card-header">
-				M.6/1
-				</div>
-				<img  id="img01" src="image/m4.1.jpg">
-			</div></div>
-	</div>
+		<?php include('include/activities.php'); ?>
 	</div>
 </div>
 </div>
